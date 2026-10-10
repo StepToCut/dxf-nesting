@@ -1,0 +1,7 @@
+test_parts/
+edge*/
+extra/
+*.dxf
+*.csv
+*.png
+__pycache__/
